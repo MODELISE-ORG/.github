@@ -1,4 +1,4 @@
-**MODELISE**  
+##**MODELISE**  
 
 **MODELISE** is a platform designed to make deploying and governing artificial intelligence models simple, secure, and standardized.  
 
