@@ -101,6 +101,6 @@ Based on risk score thresholds, MODELISE takes adaptive actions:
 
 ## 6. Conclusion
 
-MODELISE is a full-stack AI deployment and governance platform designed for the realities of modern AI usage. It simplifies model deployment while proactively addressing security, misuse, and compliance challenges through a combination of automated detection and human oversight.
+MODELISE is a full-stack AI deployment and governance platform designed for the realities of modern AI usage. It simplifies model deployment while proactively addressing security, misuse, and compliance challenges through a combination of automated detection and human oversight .
 
 Rather than attempting to control *what* users build, MODELISE focuses on **how** models are executed, accessed, and governed, making it a foundational platform for safe, scalable AI systems.
